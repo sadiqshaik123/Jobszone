@@ -1,0 +1,105 @@
+[
+  {
+    "name": "AI Virtual System",
+    "desc": " Comparation of hand gesture with some machine learning algorithms",
+    "image": "poster",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/file/d/1JHmLpUai0gAHAKeN0JVLO1tyA1Vu5N0f/view?usp=sharing",
+      "code": "https://github.com/sadiqshaik123/AI-Virtual-System.git"
+    }
+  },
+  
+  {
+    "name": "TodoList",
+    "desc": "TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)",
+    "image": "todo",
+    "category": "mern",
+    "links": {
+      "view": "https://sadiqshaik.in/todolist/",
+      "code": "https://github.com/sadiqshaik123/To-Do-List.git"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "A simple weather application that displays weather information",
+    "image": "weather",
+    "category": "mern",
+    "links": {
+      "view": "https://sadiqshaik.in/weatherapp/",
+      "code": "https://github.com/sadiqshaik123/weatherapp.git"
+    }
+  },
+  {
+    "name": "Quizapp",
+    "desc": "The quiz app is a web-based application that allows users to take quizzes on various topics. ",
+    "image": "quiz",
+    "category": "mern",
+    "links": {
+      "view": "https://sadiqshaik.in/quizapp/",
+      "code": "https://github.com/sadiqshaik123/Quiz-App.git"
+    }
+  },
+  {
+    "name": "Receipe App",
+    "desc": "The Recipe App is a web application designed to provide users with a collection of delicious recipes for various dishes.",
+    "image": "receipe",
+    "category": "mern",
+    "links": {
+      "view": "https://sadiqshaik.in/receipeapp/",
+      "code": "https://github.com/sadiqshaik123/ReceipeApp.git"
+    }
+  },
+  {
+    "name": "calculator",
+    "desc": "A simple Calculator using HTML",
+    "image": "calculator",
+    "category": "mern",
+    "links": {
+      "view": "https://sadiqshaik.in/calculator/",
+      "code": "https://github.com/sadiqshaik123/Calculator.git"
+    }
+  },
+  {
+    "name": "Blog Website",
+    "desc": "A simple Blog Website using HTML, CSS, Js",
+    "image": "blog",
+    "category": "mern",
+    "links": {
+      "view": "https://sadiqshaik.in/blogger/",
+      "code": "https://github.com/sadiqshaik123/Blog-website.git"
+    }
+  },
+  {
+    "name": "E-Commerce Website",
+    "desc": "Simple E-commerce website using HTML, CSS and JAVASCRIPT",
+    "image": "pspk",
+    "category": "lamp",
+    "links": {
+      "view": "https://sadiqshaik.in/e-commerce/",
+      "code": "https://github.com/sadiqshaik123/E-Commerce.git"
+    }
+  },
+  {
+    "name": "ROCK-PAPER-SCISSOR",
+    "desc": "Simple RPS Game using HTML, CSS and JAVASCRIPT",
+    "image": "rps",
+    "category": "lamp",
+    "links": {
+      "view": "https://sadiqshaik.in/rpsgame/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Language Translator",
+    "desc": "Create a web-based translator using HTML/CSS for UI and JavaScript for translating. Users input text, select languages, and get translations displayed.",
+    "image": "Trans",
+    "category": "lamp",
+    "links": {
+      "view": "https://sadiqshaik.in/translator/",
+      "code": "https://github.com/sadiqshaik123/Translator.git"
+    }
+  }
+  
+  
+]
